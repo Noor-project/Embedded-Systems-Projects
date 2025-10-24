@@ -1,3 +1,6 @@
+//NOOR FATIMA
+//23-NTU-CS-1083
+//BSCS 5TH A
 #include <Arduino.h>
 
 // --- LED Configuration ---

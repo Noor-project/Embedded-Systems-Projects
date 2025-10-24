@@ -1,5 +1,7 @@
 // PWM Example – LED Brightness Fade
-
+//NOOR FATIMA
+//23-NTU-CS-1083
+//BSCS 5TH A
 #include <Arduino.h>
 #define LED_PIN 18
 #define PWM_CH 0
